@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output.
+# Resume configuration for Josef Adamčík
 #
 
 sidebar:
@@ -8,279 +8,226 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Josef Adamčík
+  tagline: Senior Software Engineer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: josef.adamcik@gmail.com
+  phone: 
+  timezone: Europe/Prague
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
+  website: https://josef-adamcik.cz
+  linkedin: josefadamcik
+  xing: 
+  github: josefadamcik
+  telegram: 
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  bluesky: 
+  twitter: 
+  stack-overflow: 135837/josef-adamcik
   codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  goodreads: 
+  mastodon: 
+  hackerrank: 
+  leetcode: 
+  pdf: 
 
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Czech
       level: Native
 
-    - idiom: French
+    - idiom: English
       level: Professional
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: German
+      level: Elementary
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Software Engineering
       link:
 
-
-    - item: Snowboarding
+    - item: Open Source
       link:
 
-
-    - item: Cooking
+    - item: Technology
       link:
-
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Self-reliant problem solver and permanent learner with 19 years of software development experience. 
+    I work well both independently and as part of a team, often becoming the go-to person for tackling 
+    challenging technical problems. I value gradual improvement over big rewrites and believe that clean 
+    code, automated testing, code reviews, and CI/CD are crucial for high-quality software development. 
+    Most importantly, I focus on delivering real value to users and businesses.
+
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: MSc in Software Engineering in Economics
+    university: Czech Technical University in Prague, Faculty of Nuclear Sciences and Physical Engineering
+    time: 2006 - 2010
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Master's degree focused on software engineering principles applied to economic systems 
+      and business applications.
+
+  - degree: BSc in Software Engineering in Economics
+    university: Czech Technical University in Prague, Faculty of Nuclear Sciences and Physical Engineering
+    time: 2003 - 2006
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Bachelor's degree combining software engineering fundamentals with economic applications 
+      and business systems development.
+
+  - degree: High School - Electronics, Computer Technology
+    university: SPŠ strojní a dopravní v Děčíně
+    time: 1999 - 2003
+    details: |
+      Technical high school education focused on electronics and computer technology, 
+      providing strong foundation in hardware and software fundamentals.
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
   - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+    time: June 2024 - Present
+    company: Hubexo, Europe (Remote)
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      Senior software engineer working on internal startup product development using modern 
+      Java/Spring and NestJS/TypeScript technologies with DevOps responsibilities. Collaborating 
+      with a distributed team of experts across Europe. Company transformed from ByggFakta to 
+      Hubexo in autumn 2024.
+        - Backend development using Java/Spring and NestJS/TypeScript stacks
+        - DevOps responsibilities including infrastructure management and automation
+        - Contributing to internal startup product development and architecture decisions
+        - Collaborating with distributed team of experts across Europe
+
+  - role: Senior Software Engineer
+    time: April 2021 - June 2024
+    company: Olmero, Germany (Remote)
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Transitioned to backend engineering after mobile team restructuring, focusing on e-tendering 
+      solutions with microservice architecture. Key contributor to critical infrastructure migration 
+      from on-premise to Google Cloud platform.
+        - Developed e-tendering product for construction industry using microservice architecture
+        - Key contributor to major DevOps initiative migrating entire company infrastructure from on-premise to Google Cloud
+        - Implemented full-stack solutions across multiple technologies and platforms
+
+  - role: Senior Android Developer
+    time: October 2018 - April 2021
+    company: Olmero, Germany (On-site)
+    details: |
+      Developed Android applications for Swiss construction industry leader, focusing on mobile 
+      solutions for construction site management and contractor collaboration.
+        - Built OLMeRo Android application for construction industry workflow management
+        - Developed features for construction process management and contractor collaboration
+        - Built complete project management platform including plans, defect tracking, and task management
+
+  - role: Android Developer
+    time: March 2018 - October 2018
+    company: Freelance, Czech Republic
+    details: |
+      Provided specialized Android development consulting services to help companies accelerate 
+      their mobile software projects and implement best practices.
+
+  - role: Software Developer
+    time: January 2006 - January 2018
+    company: Smarcoms, Czech Republic
+    details: |
+      Full-stack development role spanning web, mobile, and backend technologies. Progressed from 
+      PHP/Symfony web development to Java enterprise applications and native Android development. 
+      Key contributor to major projects including sports booking platform, retail and TV mobile applications.
+        - Progressed from student developer to senior technical contributor over 12-year tenure
+        - Architected and developed Bizzy booking system for sports centres using Java/Spring/Hibernate stack
+        - Key contributor to backend and mobile development for Shopin retail guide
+        - Built complete application ecosystems including APIs, web administration, and mobile applications
+        - Became primary technical problem-solver and resource for development team
 
 certifications:
   title: Certifications
-  list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+  list: []
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Over my 19-year career, I've contributed to various projects ranging from enterprise applications 
+    to mobile apps, focusing on delivering high-quality solutions that provide real value to users.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
+  - title: E-Tendering Platform
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "Microservice-based e-tendering solution for the construction industry with Google Cloud infrastructure."
 
-  - title: Tempo
+  - title: OLMeRo Mobile App
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Android application for construction site management, contractor collaboration, and project tracking."
 
-  - title: Atom
+  - title: Bizzy Booking System
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "Java/Spring/Hibernate-based booking platform for sports centres and recreational facilities."
 
-  - title: Delta
+  - title: Shopin Retail Guide
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "Mobile retail guide application with backend API and web administration system."
 
 oss:
   title: OSS Contributions
   intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    You can find my open source contributions and personal projects on my GitHub profile.
+  contributions: []
 
 publications:
   title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  intro: ""
+  papers: []
 
 recommendations:
   title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+  list: []
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
+  - name: Java & Spring Boot
     level: 95%
 
-  - name: Ruby on Rails
+  - name: Kotlin & Android
+    level: 95%
+
+  - name: NestJS & TypeScript
+    level: 90%
+
+  - name: Kubernetes & Docker
     level: 85%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: Google Cloud & AWS
+    level: 85%
+
+  - name: PostgreSQL & MySQL
+    level: 85%
+
+  - name: Terraform & Helm
+    level: 80%
+
+  - name: Node.js
+    level: 85%
+
+  - name: REST & GraphQL APIs
+    level: 90%
+
+  - name: JavaScript & HTML/CSS
+    level: 75%
+
+  - name: Python
+    level: 65%
+
+  - name: MongoDB & Firebase
+    level: 75%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Josef Adamčík - Senior Software Engineer
